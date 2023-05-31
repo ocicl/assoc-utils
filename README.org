@@ -1,0 +1,9 @@
+* assoc-utils
+
+Utilities for manipulating association lists.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/fukamachi/assoc-utils.git |
+| commit  | 483a22e                                          |
+| systems | assoc-utils                                      |
+|---------+--------------------------------------------------|
