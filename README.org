@@ -4,6 +4,6 @@ Utilities for manipulating association lists.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/fukamachi/assoc-utils.git |
-| commit  | 54cecfe                                          |
+| commit  | b14ab68                                          |
 | systems | assoc-utils                                      |
 |---------+--------------------------------------------------|
